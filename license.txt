@@ -62,7 +62,7 @@ subject to the following conditions:
    portion of this Work specifically related to or derived from the Star Wars: Dark Forces
    intellectual property, including likenesses, characters, sounds, phrases or
    references for any purpose other than use with a legally acquired copy of
-   Blood.
+   Star Wars: Dark Forces.
 
 4. Any works based upon altered, transformed, or copied parts of this Work must 
    be distributed under a license identical or similar to this one.
