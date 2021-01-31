@@ -13,4 +13,4 @@ This is the repository which includes fan-made voxels for Star Wars: Dark Forces
 
 ![](https://imgur.com/xjTtLMt.png)
 
-![](https://imgur.com/FDb3B0H.png)
+![](https://imgur.com/4F1BIBf.png)
