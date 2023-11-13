@@ -5,7 +5,7 @@ This is the repository which includes fan-made voxels for Star Wars: Dark Forces
 
 # Installation
 
-The Force Engine doesn't support voxels at the moment. It is planned for version 1.12.
+The Force Engine doesn't support voxels at the moment. It is unknown when voxel support will be fully implemented but for now it's planned for 2024.
 
 # Media
 
